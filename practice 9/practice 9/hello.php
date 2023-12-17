@@ -1,6 +1,6 @@
 <?php
-$nama = "Novian Adi Prasetyo";
-$kelas = "IF05X";
+$nama = "Sandra Saputra";
+$kelas = "IF09MM4";
 echo "Hello $nama <br>";
 print "Class $kelas";
 ?>

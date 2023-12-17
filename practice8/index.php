@@ -4,7 +4,7 @@
 <head>
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
   <title>Sandra Saputra</title>
-  <link rel="icon" href="../practice 4/1666451548755.jpg" />
+  <link rel="icon" href="../aset/DSC_9164.JPG" />
 
   <style type="text/css">
     .style1 {
